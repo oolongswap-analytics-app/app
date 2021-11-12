@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.da6e1776.chunk.js",
+    "main.js": "/static/js/main.352a25b7.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c79ccceb.js",
-    "static/js/2.055e0cd0.chunk.js": "/static/js/2.055e0cd0.chunk.js",
+    "static/js/2.ae7e3726.chunk.js": "/static/js/2.ae7e3726.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.e67a2b1a5faaf85b1a7234071cd27fe0.js": "/precache-manifest.e67a2b1a5faaf85b1a7234071cd27fe0.js",
+    "precache-manifest.d043b3532a05c1cda8b71334d9fd51f4.js": "/precache-manifest.d043b3532a05c1cda8b71334d9fd51f4.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.055e0cd0.chunk.js.LICENSE.txt": "/static/js/2.055e0cd0.chunk.js.LICENSE.txt",
+    "static/js/2.ae7e3726.chunk.js.LICENSE.txt": "/static/js/2.ae7e3726.chunk.js.LICENSE.txt",
+    "static/media/AVAX.png": "/static/media/AVAX.f1e70c38.png",
+    "static/media/MATIC.png": "/static/media/MATIC.88f32691.png",
     "static/media/eth.png": "/static/media/eth.5fc0c9bd.png",
     "static/media/wordmark_white.svg": "/static/media/wordmark_white.231e6d20.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c79ccceb.js",
-    "static/js/2.055e0cd0.chunk.js",
-    "static/js/main.da6e1776.chunk.js"
+    "static/js/2.ae7e3726.chunk.js",
+    "static/js/main.352a25b7.chunk.js"
   ]
 }
