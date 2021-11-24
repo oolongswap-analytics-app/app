@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.84d9f137.chunk.js",
+    "main.js": "/static/js/main.8cee177f.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.c79ccceb.js",
     "static/js/2.ae7e3726.chunk.js": "/static/js/2.ae7e3726.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.4a8c94545883ea2ea24d256e44c08c3f.js": "/precache-manifest.4a8c94545883ea2ea24d256e44c08c3f.js",
+    "precache-manifest.ba483c6d5627a3275d1828347c3e5c97.js": "/precache-manifest.ba483c6d5627a3275d1828347c3e5c97.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.ae7e3726.chunk.js.LICENSE.txt": "/static/js/2.ae7e3726.chunk.js.LICENSE.txt",
     "static/media/AVAX.png": "/static/media/AVAX.f1e70c38.png",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.c79ccceb.js",
     "static/js/2.ae7e3726.chunk.js",
-    "static/js/main.84d9f137.chunk.js"
+    "static/js/main.8cee177f.chunk.js"
   ]
 }
